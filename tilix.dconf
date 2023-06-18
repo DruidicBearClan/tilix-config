@@ -1,0 +1,44 @@
+[/]
+accelerators-enabled=true
+app-title='${sessionName}'
+control-scroll-zoom=true
+paste-strip-trailing-whitespace=false
+quake-hide-headerbar=false
+quake-specific-monitor=0
+sidebar-on-right=false
+terminal-title-style='small'
+unsafe-paste-alert=false
+
+[keybindings]
+app-new-session='disabled'
+app-new-window='<Primary>t'
+nautilus-open='<Primary><Shift>F8'
+session-add-down='<Primary><Shift>Down'
+session-add-right='<Primary><Shift>Right'
+session-close='<Shift><Alt>q'
+session-switch-to-terminal-down='<Alt>Down'
+session-switch-to-terminal-left='<Alt>Left'
+session-switch-to-terminal-right='<Alt>Right'
+session-switch-to-terminal-up='<Alt>Up'
+terminal-maximize='<Primary><Shift>space'
+terminal-scroll-down='disabled'
+terminal-scroll-up='disabled'
+
+[profiles/2b7c4080-0ddd-46c5-8f23-563fd3ba789d]
+background-transparency-percent=8
+badge-font='Consolas 12'
+badge-use-system-font=false
+cursor-shape='underline'
+default-size-columns=150
+default-size-rows=100
+font='Consolas 12'
+foreground-color='#FFFFFFFFFFFF'
+login-shell=true
+palette=['#262668680000', '#E0E01B1B2424', '#1C1C7171D8D8', '#F6F6D3D32D2D', '#1A1A5F5FB4B4', '#B5B55555FFFF', '#1D1D89897C7C', '#C0C0BFBFBCBC', '#0202ACAC1515', '#81813D3D9C9C', '#8282FFFF0000', '#E5E5A5A50A0A', '#35358484E4E4', '#A5A51D1D2D2D', '#0000FFFFD5D5', '#545454545454']
+scrollback-lines=256
+scrollback-unlimited=true
+terminal-bell='none'
+terminal-title='${title}'
+use-system-font=false
+use-theme-colors=false
+visible-name='Ouroboros'
